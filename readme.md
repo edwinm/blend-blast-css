@@ -73,7 +73,7 @@ To incorporate the BlendBlastCSS framework into your own code, simply import the
 and assign the colors and blends to any element you wish to style with your vibrant palette.
 
 ```html
-<...
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/edwinm/blend-blast-css/src/blendblast.css">
 ```
 
 With this simple integration, your elements will burst with the dynamic colors of BlendBlastCSS,
